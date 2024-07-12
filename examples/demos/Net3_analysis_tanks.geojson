@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Net3_analysis_tanks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index": "2", "node_type": "Tank", "elevation": 259.08, "initial_quality": 0.001, "diameter": 15.3924, "init_level": 36.576, "max_level": 45.72, "min_level": 30.48, "min_vol": 0.0, "overflow": "False", "betweenness_centrality": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 50.0, 90.0 ] } }
+]
+}

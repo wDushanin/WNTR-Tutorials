@@ -13,6 +13,9 @@ branca==0.7.2
 certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
 comm==0.2.2
 contourpy==1.2.1
 cycler==0.12.1
@@ -23,6 +26,7 @@ et-xmlfile==1.1.0
 exceptiongroup==1.2.1
 executing==2.0.1
 fastjsonschema==2.20.0
+fiona==1.9.6
 folium==0.17.0
 fonttools==4.53.1
 fqdn==1.5.1

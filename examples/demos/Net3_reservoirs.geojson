@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Net3_reservoirs",
+"features": [
+{ "type": "Feature", "properties": { "index": "River", "node_type": "Reservoir", "initial_quality": 0.0, "base_head": 67.056 }, "geometry": { "type": "Point", "coordinates": [ 24.15, 31.06 ] } },
+{ "type": "Feature", "properties": { "index": "Lake", "node_type": "Reservoir", "initial_quality": 0.0, "base_head": 50.9016 }, "geometry": { "type": "Point", "coordinates": [ 8.0, 27.53 ] } }
+]
+}
