@@ -28,7 +28,7 @@ fonttools==4.53.1
 fqdn==1.5.1
 GeoAlchemy2==0.15.2
 geographiclib==2.0
-geopandas==1.0.1
+geopandas @ file:///Users/wdushanin/Documents/EPA/WNTR-July2024/WNTR-Tutorials/geopandas
 geopy==2.4.1
 h11==0.14.0
 httpcore==1.0.5
